@@ -39,12 +39,3 @@ class School
   sorted_roster
   end
 end
-
-
-# def sort
-#   sorted = {}
-#   roster.map do |grade, students|
-#     sorted[grade] = students.sort
-#   end
-#   sorted
-# end
